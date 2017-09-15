@@ -2,6 +2,8 @@
 # VS-Code-launch
 
  Eo6
+    |.vscode
+        |launch.json
     |01NewVariables
         |test.js
  
